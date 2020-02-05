@@ -8,6 +8,7 @@
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=SainsburyWellcomeCentre/cellfinder)](https://dependabot.com)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 [![Gitter](https://badges.gitter.im/cellfinder/community.svg)](https://gitter.im/cellfinder/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadamltyson%2Fcellfinder.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadamltyson%2Fcellfinder?ref=badge_shield)
 
 # Cellfinder
 Whole-brain cell detection, registration and analysis.
@@ -55,3 +56,6 @@ with RSP.
 ![brainrender](resources/brainrender.png)
 
 Data courtesy of Sepiedeh Keshavarzi and Chryssanthi Tsitoura. [Details here](https://www.youtube.com/watch?v=pMHP0o-KsoQ)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadamltyson%2Fcellfinder.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadamltyson%2Fcellfinder?ref=badge_large)
